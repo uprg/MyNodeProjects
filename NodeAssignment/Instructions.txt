@@ -1,0 +1,5 @@
+root_url === https://madeuserapi.herokuapp.com/
+
+1) for using the api go to : root_url/login for creating a user. to see all users go to  : root_url/users
+
+2) to create a user. give email and password in json format
