@@ -1,0 +1,9 @@
+this can be called with both a form and json 
+
+user has to register first and then have to pay
+
+for register go to /register . there you will get a id .
+
+take this id and go to /payment and put this id in userid box and refer name .
+
+after that go to /users to see the result .
